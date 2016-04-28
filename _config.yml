@@ -1,0 +1,28 @@
+name: SCO
+favicon: null
+layout_spectrum: 0.640335739357397
+typography_spectrum: 0.2694340511225164
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8987967921420932
+  lightness: 0.229911730857566
+  saturation: 0.41954217734746635
+  rhythmicContrast: 0.3767648465000093
+purpose: []
